@@ -1,0 +1,19 @@
+.form{
+    max-width: 500px;
+    margin: 50px auto;
+}
+.form textarea{
+   height:150px !important;
+}
+
+form textarea , form input{
+margin: 10px; 
+}
+ 
+
+
+
+.form input ,.form textarea{
+    padding-left:10px;
+}
+
